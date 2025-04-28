@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langsmith
+nltk
+poppler-utils
+pymilvus
+pypdf
+python-dotenv
+tiktoken
+langchain-huggingface
+huggingface_hub
+streamlit
